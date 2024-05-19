@@ -1,0 +1,6 @@
+pandas
+aiohttp
+aiofiles
+bs4
+tqdm
+fastparquet

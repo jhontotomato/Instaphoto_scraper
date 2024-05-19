@@ -1,0 +1,6 @@
+.venv
+user_photos
+photo_scrape_results.parquet
+sample.csv
+test.ipynb
+__pycache__
